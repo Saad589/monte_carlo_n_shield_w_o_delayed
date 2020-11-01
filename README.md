@@ -2,5 +2,5 @@
 Monte Carlo Neutron Transport Code for 2D Geometry 
 
 *Orignal contributor:
-A. B. S. Manik Munsi
+@A. B. S. Manik Munsi
 Jagannath University - Bangladesh · Department of Mathematics*
